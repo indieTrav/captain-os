@@ -1,0 +1,257 @@
+{
+  "corral.app": {
+    "available": false,
+    "checked_at": "2026-05-28T04:17:49Z",
+    "source": "rdap"
+  },
+  "daughtersofthedesert.com": {
+    "available": false,
+    "checked_at": "2026-06-03T00:47:11Z",
+    "source": "whois"
+  },
+  "desert-daughter.com": {
+    "available": false,
+    "checked_at": "2026-06-03T00:47:11Z",
+    "source": "whois"
+  },
+  "desert-daughters.co": {
+    "available": true,
+    "checked_at": "2026-06-03T00:47:11Z",
+    "source": "rapidapi/domainr"
+  },
+  "desert-daughters.com": {
+    "available": true,
+    "checked_at": "2026-06-03T00:47:11Z",
+    "source": "rapidapi/domainr"
+  },
+  "desertdaughter.com": {
+    "available": false,
+    "checked_at": "2026-06-03T00:47:11Z",
+    "source": "rdap"
+  },
+  "desertdaughterco.com": {
+    "available": true,
+    "checked_at": "2026-06-03T00:47:11Z",
+    "source": "rdap"
+  },
+  "desertdaughters.boutique": {
+    "available": true,
+    "checked_at": "2026-06-03T00:47:11Z",
+    "source": "rapidapi/domainr"
+  },
+  "desertdaughters.co": {
+    "available": true,
+    "checked_at": "2026-06-03T00:47:11Z",
+    "source": "rapidapi/domainr"
+  },
+  "desertdaughters.com": {
+    "available": false,
+    "checked_at": "2026-06-03T00:47:11Z",
+    "source": "whois"
+  },
+  "desertdaughters.life": {
+    "available": true,
+    "checked_at": "2026-06-03T00:47:11Z",
+    "source": "rapidapi/domainr"
+  },
+  "desertdaughters.net": {
+    "available": true,
+    "checked_at": "2026-06-03T00:47:11Z",
+    "source": "rdap"
+  },
+  "desertdaughters.org": {
+    "available": true,
+    "checked_at": "2026-06-03T00:47:11Z",
+    "source": "rapidapi/domainr"
+  },
+  "desertdaughters.shop": {
+    "available": true,
+    "checked_at": "2026-06-03T00:47:11Z",
+    "source": "rdap"
+  },
+  "desertdaughters.store": {
+    "available": true,
+    "checked_at": "2026-06-03T00:47:11Z",
+    "source": "rdap"
+  },
+  "desertdaughters.studio": {
+    "available": true,
+    "checked_at": "2026-06-03T00:47:11Z",
+    "source": "rapidapi/domainr"
+  },
+  "desertdaughters.us": {
+    "available": true,
+    "checked_at": "2026-06-03T00:47:11Z",
+    "source": "rapidapi/domainr"
+  },
+  "desertdaughtersandco.com": {
+    "available": true,
+    "checked_at": "2026-06-03T00:47:11Z",
+    "source": "rdap"
+  },
+  "desertdaughtersclub.com": {
+    "available": true,
+    "checked_at": "2026-06-03T00:47:11Z",
+    "source": "rdap"
+  },
+  "desertdaughtersco.com": {
+    "available": true,
+    "checked_at": "2026-06-03T00:47:11Z",
+    "source": "rdap"
+  },
+  "desertdaughterscollective.com": {
+    "available": true,
+    "checked_at": "2026-06-03T00:47:11Z",
+    "source": "rdap"
+  },
+  "desertdaughtersgoods.com": {
+    "available": true,
+    "checked_at": "2026-06-03T00:47:11Z",
+    "source": "rdap"
+  },
+  "desertdaughtershome.com": {
+    "available": true,
+    "checked_at": "2026-06-03T00:47:11Z",
+    "source": "rdap"
+  },
+  "desertdaughtersshop.com": {
+    "available": true,
+    "checked_at": "2026-06-03T00:47:11Z",
+    "source": "rdap"
+  },
+  "desertdaughterstudio.com": {
+    "available": true,
+    "checked_at": "2026-06-03T00:47:11Z",
+    "source": "rdap"
+  },
+  "equicupid.com": {
+    "available": true,
+    "checked_at": "2026-05-28T04:19:16Z",
+    "source": "rdap"
+  },
+  "equimatch.io": {
+    "available": true,
+    "checked_at": "2026-05-28T04:19:16Z",
+    "source": "rapidapi/domainr"
+  },
+  "foalswipe.com": {
+    "available": true,
+    "checked_at": "2026-05-28T04:19:16Z",
+    "source": "rdap"
+  },
+  "freshnewdomain12345.com": {
+    "available": true,
+    "checked_at": "2026-05-28T04:03:25Z",
+    "source": "rdap"
+  },
+  "google.com": {
+    "available": false,
+    "checked_at": "2026-05-28T04:02:43Z",
+    "source": "whois"
+  },
+  "hellodesertdaughters.com": {
+    "available": true,
+    "checked_at": "2026-06-03T00:47:11Z",
+    "source": "rdap"
+  },
+  "hellohorse.com": {
+    "available": false,
+    "checked_at": "2026-05-28T04:17:49Z",
+    "source": "whois"
+  },
+  "herdmate.com": {
+    "available": false,
+    "checked_at": "2026-05-28T04:14:30Z",
+    "source": "whois"
+  },
+  "horsekind.com": {
+    "available": false,
+    "checked_at": "2026-05-28T04:17:49Z",
+    "source": "whois"
+  },
+  "indietravis.com": {
+    "available": true,
+    "checked_at": "2026-05-28T04:12:34Z",
+    "source": "rdap"
+  },
+  "indietravis.io": {
+    "available": true,
+    "checked_at": "2026-05-28T04:03:25Z",
+    "source": "rapidapi/domainr"
+  },
+  "mane2mane.com": {
+    "available": true,
+    "checked_at": "2026-05-28T04:19:16Z",
+    "source": "rdap"
+  },
+  "manematch.com": {
+    "available": false,
+    "checked_at": "2026-05-28T04:14:30Z",
+    "source": "whois"
+  },
+  "maneup.com": {
+    "available": false,
+    "checked_at": "2026-05-28T04:14:30Z",
+    "source": "whois"
+  },
+  "mydesertdaughters.com": {
+    "available": true,
+    "checked_at": "2026-06-03T00:47:11Z",
+    "source": "rdap"
+  },
+  "nuzzle.app": {
+    "available": false,
+    "checked_at": "2026-05-28T04:17:49Z",
+    "source": "rdap"
+  },
+  "paddockpair.com": {
+    "available": false,
+    "checked_at": "2026-05-28T04:14:30Z",
+    "source": "whois"
+  },
+  "ranchmatch.com": {
+    "available": true,
+    "checked_at": "2026-05-28T04:19:16Z",
+    "source": "rdap"
+  },
+  "shopdesertdaughters.com": {
+    "available": true,
+    "checked_at": "2026-06-03T00:47:11Z",
+    "source": "rdap"
+  },
+  "stablemate.com": {
+    "available": false,
+    "checked_at": "2026-05-28T04:14:30Z",
+    "source": "whois"
+  },
+  "stablemate.io": {
+    "available": false,
+    "checked_at": "2026-05-28T04:14:30Z",
+    "source": "whois"
+  },
+  "swipequine.com": {
+    "available": true,
+    "checked_at": "2026-05-28T04:19:16Z",
+    "source": "rdap"
+  },
+  "thedesertdaughter.com": {
+    "available": true,
+    "checked_at": "2026-06-03T00:47:11Z",
+    "source": "rdap"
+  },
+  "thedesertdaughters.com": {
+    "available": true,
+    "checked_at": "2026-06-03T00:47:11Z",
+    "source": "rdap"
+  },
+  "wearedesertdaughters.com": {
+    "available": true,
+    "checked_at": "2026-06-03T00:47:11Z",
+    "source": "rdap"
+  },
+  "yayneigh.com": {
+    "available": true,
+    "checked_at": "2026-05-28T04:19:16Z",
+    "source": "rdap"
+  }
+}

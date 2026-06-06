@@ -1,0 +1,21 @@
+# Alex Hormozi Tweets
+
+- Nothing makes you more dangerous than figuring out exactly what you want.
+- I overheard a successful business man talking to a younger one that was saying his advice was boring. The older replied "you know what's exciting? Poverty! Extremely exciting. Never a dull moment!" Always remembered that.
+- You've made in life if you can do two things: 1) Not take yourself too seriously 2) Stop trying to impress others
+- You want to be a man people run towards not from.
+- "I wasn't at 100%" is never an acceptable excuse - because no one is.
+- No one is gonna give a shit about you for you. You gotta do that for you.
+- No matter how good or bad things are going, I try to remind myself, "the present is temporary"
+- You get rich by betting on things other people are wrong about. Because most "good" investments have their "goodness" priced into them, making them "mediocre" or "bad" investments in reality. The key is to find something that looks bad but is actually good. Which means you gotta be willing to have people tell you why you're dumb (then wait). Then get called lucky. Then do it a few more times. Then have people say you're finally good. But by the time they say you're good it already stopped mattering to you what they thought because why would you respect someone's judgment who was so repeatedly bad? They now only say you're good because everyone else does and not because they could ever make up their minds on their own.
+- The worst thing that can happen to you is playing a game your entire life only to end up atop the winner's podium with an award you don't even want.
+- Most advice is someone shouting at a younger version of themselves, not the person in front of them.
+- Entrepreneurship is having the courage to finally go all in and say YES. Followed by the rest of your life learning to say no.
+- Wisdom: Knowing what you want. Achievement: Getting what you want. Happiness: Wanting what you have.
+- In a win-win situation, delaying the decision is how you lose.
+- You can fight it with all your being, but the present you're comfortable with is often the cost of the future you desperately want.
+- Be happy to pay the price or be resentful. But it's not going to change the cost of getting what you want.
+- One of the truly disappointing things about beating a competitor is that when you actually win, it's empty. Because by the time you win, they've become irrelevant.
+- Even if you started off neck and neck, no one cares if Goliath beats David. And in the real world, "David" isn't a "bad guy" but just an inferior opponent who has employees with families who just get quietly absorbed by the economic machine.
+- So they go out with a whimper and a speech about "changing priorities" and "reassessing their goals" not a guns blazing bang.
+- Bad news doesn't get better with time. — Sharran Srivatsaa
